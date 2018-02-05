@@ -1,4 +1,5 @@
 # feliciagstudio.com
+### sole developer and designer
 ### website in progress, under construction, Felicia G Studio
 ### [demo](http://52.55.69.245/)  
 #
