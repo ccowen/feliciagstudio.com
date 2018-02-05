@@ -5,9 +5,10 @@
 # Homepage Screenshot
 ![Homepage Screenshot](sampleHome.png?raw=true "Title")
 #
-# Shop Screenshot
+<!-- # Shop Screenshot
 ![Shop Screenshot](sampleShop.png?raw=true "Title")
-#
+# !-->
+
 # Account Screenshot
 ![Account Screenshot](sampleAccount.png?raw=true "Title")
 
