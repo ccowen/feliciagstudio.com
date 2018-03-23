@@ -2,7 +2,7 @@
 ### website in progress, under construction, Felicia G Studio
 ### sole developer and designer
 
-### [demo](http://52.55.69.245/)  
+### [demo](https://www.feliciagstudio.com)  
 #
 # Homepage Screenshot
 ![Homepage Screenshot](sampleHome.png?raw=true "Felicia G. Studio Homepage")
