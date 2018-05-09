@@ -1,6 +1,6 @@
 # feliciagstudio.com
 ### website in progress, under construction, Felicia G Studio
-### sole developer and designer
+### developer and designer
 
 ### [demo](https://www.feliciagstudio.com)  
 #
